@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Private Life of Merge Conflicts
+### Abstract
 
-You can use the [editor on GitHub](https://github.com/private-life-of-merge-conflicts/private-life-of-merge-conflicts/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+> Collaborative development is an essential process for the success of software projects. However, code integration conflicts can occur when developers push and merge their changes to the shared repository. Such conflicts may impair developers' productivity and introduce new bugs. Previous empirical studies have analyzed these conflict characteristics and proposed different approaches to prevent or resolve them. However, they did not consider the local actions or the integration scenarios usually omitted from the history of remote shared repositories due to using commands, such as rebase, that rewrite Git commits history. Thus,  these studies might be examining only part of the integration scenarios and conflicts. In this paper, we try to shed some light on this problem by bringing evidence from an empirical study with data extracted from private repositories of developers to identify integration scenarios, focusing on hidden integration scenarios. We analyzed 95 log files belonging to 61 different developers. Our results indicate that hidden integration scenarios are more frequent than the visible ones in the private repositories. We also found higher conflict rates than previous studies did. Thus, our evidence suggests that studies might be losing integration conflict data by not including the developer's local repository actions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Git Log Sample
+[Google Drive Link](https://drive.google.com/drive/folders/1v2bBcv-pi9uK9HJ23YsmpHeV5jhB9vXQ?usp=sharing)
 
-### Markdown
+### Scripts
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/private-life-of-merge-conflicts/private-life-of-merge-conflicts/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Interview Script
+[Google Drive Link](https://drive.google.com/drive/folders/1H83IjmDVXeL5lQLoPzxjkEpYDMlnkbnY?usp=sharing)
